@@ -13,7 +13,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Hello! My name is Qaiser Habib. I have 1 years of experience in IT industry as a Software Quality Assurance Engineer. Worked on mobile and web based apps for ecommerce and healthcare domains. Used Postman, Jmeter, Java, Cucumber, Selenium, Cypress and Playwright for testing.
+  <samp>Hello! My name is Qaiser Habib. I have 1.8 years of experience in IT industry as a Software Quality Assurance Engineer. Worked on mobile and web based apps for ecommerce and healthcare domains. Used Postman, Jmeter, Java, Cucumber, Selenium, Cypress and Playwright for testing.
 </p>
 <hr>
   <!-- <a target="_blank"href="https://udzial.com/API_Testing"><img src="https://img.shields.io/badge/API Testing-brown?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp; -->
